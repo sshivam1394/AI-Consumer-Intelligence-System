@@ -1,11 +1,11 @@
----
+
 title: AI Consumer Intelligence
 emoji: 🚀
 colorFrom: purple
 colorTo: blue
 sdk: docker
 pinned: false
----# 🚀 AI-Powered Consumer Intelligence System
+# 🚀 AI-Powered Consumer Intelligence System
 
 ## 📌 Project Overview
 
